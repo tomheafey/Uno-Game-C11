@@ -2,7 +2,10 @@
 
 This app was was built as a final project for Midland Code Academy.
 
-Technologies used to build the app:
+## Link to app
+[https://uno-clone-heafey.fly.dev/](https://uno-clone-heafey.fly.dev/)
+
+## Technologies used to build the app:
 
 -   React
 -   Socket.IO
